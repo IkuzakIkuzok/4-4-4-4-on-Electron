@@ -1,0 +1,23 @@
+{
+  "name": "4-4-4-4",
+  "version": "1.0.0",
+  "description": "4-4-4-4 on Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IkuzakIkuzok/4-4-4-4-on-Electron.git"
+  },
+  "author": "ikuzak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IkuzakIkuzok/4-4-4-4-on-Electron/issues"
+  },
+  "homepage": "https://github.com/IkuzakIkuzok/4-4-4-4-on-Electron#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
